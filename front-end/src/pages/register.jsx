@@ -132,16 +132,7 @@ class Register extends React.Component {
                                                     occurred during the
                                                     game. First product that we
                                                     apply new technology such as
-                                                    React, Redux.
-                                                    <br />
-                                                    <b>Made by</b>
-                                                    <br />
-                                                    <b>
-                                                        <i>
-                                                            Tran Trong Phuc -
-                                                            Nguyen Hong Ky
-                                                        </i>
-                                                    </b>
+                                                    React, Redux.                                                    
                                                 </p>
                                             </div>
                                         </div>
